@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(240, 245, 244);
+    text-align: center;
+}
+button{
+    
+    background-size: 50px 50px;
+    font-size: 1.4em;
+    font-weight: bold;
+    padding: 10px 30px;
+    border-style: outset;
+
+
+}
+button:hover{
+    background-color: rgb(221, 209, 34);
+    color: #fff;
+
+}
+img{
+    position: relative;
+}
+
